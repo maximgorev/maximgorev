@@ -1,4 +1,8 @@
-### Hi there 👋
+### Bonjour 👋
+
+Je ne sais pas encore coder !
+
+Aurevoir...
 
 <!--
 **maximgorev/maximgorev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
